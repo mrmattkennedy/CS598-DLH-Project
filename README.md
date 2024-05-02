@@ -4,4 +4,4 @@ The goal of this repository is to examine and replicate results from [L. et al](
 All documents that have been submitted (proposal, draft, final submission) are located in the [docs](/docs/) folder.
 
 ## Steps to run code
-To reproduce this code, download the notebook file "DL4H_Team_65.ipynb" and run the notebook sequentially.
+To reproduce this code, download the notebook file [DL4H_Team_65.ipynb](/DL4H_Team_65.ipynb) and run the notebook sequentially.
